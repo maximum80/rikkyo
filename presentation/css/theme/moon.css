@@ -7,8 +7,15 @@
 section.has-background-image, section.has-background-image h1, section.has-background-image h2, section.has-background-image h3, section.has-background-image h4, section.has-background-image h5, section.has-background-image h6 {
   color: #fff;
 }
+section.has-background-video, section.has-background-video h1, section.has-background-video h2, section.has-background-video h3, section.has-background-video h4, section.has-background-video h5, section.has-background-video h6 {
+  color: #fff;
+}
 
-.slides .has-background-image {
+.has-background-image > .slides{
+  background-color : rgba(0,0,0,0.5);
+}
+
+.has-background-video > .slides{
   background-color : rgba(0,0,0,0.5);
 }
 

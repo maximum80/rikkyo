@@ -918,6 +918,7 @@
 		slide.classList.remove( 'has-dark-background' );
 		slide.classList.remove( 'has-light-background' );
 		slide.classList.remove( 'has-background-image' );
+		slide.classList.remove( 'has-background-video' );
 		slide.slideBackgroundElement = element;
 
 		// If this slide has a background color, add a class that
@@ -2981,7 +2982,7 @@
 		// If there's a background brightness flag for this slide,
 		// bubble it to the .reveal container
 		if( currentSlide ) {
-			[ 'has-light-background', 'has-dark-background', 'has-background-image'].forEach( function( classToBubble ) {
+			[ 'has-light-background', 'has-dark-background', 'has-background-image', 'has-background-video'].forEach( function( classToBubble ) {
 				if( currentSlide.classList.contains( classToBubble ) ) {
 					dom.wrapper.classList.add( classToBubble );
 				}
@@ -3117,12 +3118,11 @@
 				if( backgroundImage ) {
 					background.style.backgroundImage = 'url('+ backgroundImage +')';
 				  slide.classList.add( 'has-background-image' );
-					console.log("AAA");
 				}
 				// Videos
 				else if ( backgroundVideo && !isSpeakerNotes() ) {
 					var video = document.createElement( 'video' );
-
+				  slide.classList.add( 'has-background-video' );
 					if( backgroundVideoLoop ) {
 						video.setAttribute( 'loop', '' );
 					}

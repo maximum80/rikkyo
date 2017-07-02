@@ -1,4 +1,3 @@
-<!-- .slide: data-background-image="assets/images/codeprep_top.jpg" -->
 # 立教大学講演
 ## 経営戦略論
 ## Global Strategic Management
@@ -81,19 +80,19 @@ Note:
 My grand father has gone when I
 
 
-<!-- .slide: data-background="assets/images/granpa.jpg" data-background-size="auto 100%" data-background-transition="zoom" -->
+<!-- .slide: data-background="assets/images/granpa.jpg" data-background-size="auto 100%"-->
+# A strong will <!-- .element: class="fragment" data-fragment-index="1" -->
+# brings advance<!-- .element: class="fragment" data-fragment-index="2" -->
 Note:
 If it says in English
 
 
-# A strong will <!-- .element: class="fragment" data-fragment-index="1" -->
-# brings advance<!-- .element: class="fragment" data-fragment-index="2" -->
-
-
+<!-- .slide: data-background="assets/images/granpa.jpg" data-background-size="auto 100%"-->
 # To be honest<!-- .element: class="fragment" data-fragment-index="1" -->
 # brings you successful<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
+<!-- .slide: data-background="assets/images/granpa.jpg" data-background-size="auto 100%"-->
 A strong will brings advance, <br>To be honest brings you successful.
 Note:
 I understood it means that "a strong will" is not enough for the successful.

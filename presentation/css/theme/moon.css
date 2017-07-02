@@ -15,9 +15,9 @@ section.has-background-video, section.has-background-video h1, section.has-backg
   background-color : rgba(0,0,0,0.5);
 }
 
-.has-background-video > .slides{
+/*.has-background-video > .slides{
   background-color : rgba(0,0,0,0.5);
-}
+}*/
 
 /**
  * Solarized colors by Ethan Schoonover

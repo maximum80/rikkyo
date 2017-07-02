@@ -4,6 +4,14 @@
  */
 @import url(../../lib/font/league-gothic/league-gothic.css);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+section.has-background-image, section.has-background-image h1, section.has-background-image h2, section.has-background-image h3, section.has-background-image h4, section.has-background-image h5, section.has-background-image h6 {
+  color: #fff;
+}
+
+.slides .has-background-image {
+  background-color : rgba(0,0,0,0.5);
+}
+
 /**
  * Solarized colors by Ethan Schoonover
  */

@@ -917,7 +917,7 @@
 		// If backgrounds are being recreated, clear old classes
 		slide.classList.remove( 'has-dark-background' );
 		slide.classList.remove( 'has-light-background' );
-
+		slide.classList.remove( 'has-background-image' );
 		slide.slideBackgroundElement = element;
 
 		// If this slide has a background color, add a class that
@@ -2981,7 +2981,7 @@
 		// If there's a background brightness flag for this slide,
 		// bubble it to the .reveal container
 		if( currentSlide ) {
-			[ 'has-light-background', 'has-dark-background' ].forEach( function( classToBubble ) {
+			[ 'has-light-background', 'has-dark-background', 'has-background-image'].forEach( function( classToBubble ) {
 				if( currentSlide.classList.contains( classToBubble ) ) {
 					dom.wrapper.classList.add( classToBubble );
 				}
@@ -3116,6 +3116,8 @@
 				// Images
 				if( backgroundImage ) {
 					background.style.backgroundImage = 'url('+ backgroundImage +')';
+				  slide.classList.add( 'has-background-image' );
+					console.log("AAA");
 				}
 				// Videos
 				else if ( backgroundVideo && !isSpeakerNotes() ) {

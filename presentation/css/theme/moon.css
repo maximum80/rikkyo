@@ -12,6 +12,8 @@ section.has-background-video, section.has-background-video h1, section.has-backg
 }
 
 .has-background-image > .slides{
+  width: 100% !important;
+  height: 100% !important;
   background-color : rgba(0,0,0,0.5);
 }
 

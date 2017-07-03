@@ -175,14 +175,83 @@ Today, I'm gonna talk to you how I tried to lead our team with my 3 stories.
 Note: First story is how I set a goal.
 
 
-明確なゴールがなかったので
-自分の事ばかり考え焦点をおいていたら、全く売れなかった。お客様も得られなかった。
-兎に角勢いは合った。
+<!-- .slide: data-background-image="http://kenjasyukatsu.com/blogs/wp-content/uploads/2015/05/imasia_15432350_S.jpg" -->
+- Joined internship<!-- .element: class="fragment" data-fragment-index="2" -->
+- Noticed the fun of IT industry<!-- .element: class="fragment" data-fragment-index="3" -->
+- Apply IT companies<!-- .element: class="fragment" data-fragment-index="4" -->
+
+Note: Let's go back to my job hunting season when I was an university student. I went to smoe 1day internships in Japanese traditiona company. And...
+
+
+<!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
+- Every interviewer asked me...<!-- .element: class="fragment" data-fragment-index="2" -->
+- "Could you tell me about your programming experience?"<!-- .element: class="fragment" data-fragment-index="3" -->
+Note: In the interview, Every interviewer asked me ""
+
+
+<!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
+- I answered...<!-- .element: class="fragment" data-fragment-index="2" -->
+- "I learned in programming class!"<!-- .element: class="fragment" data-fragment-index="3" -->
+- ...＼(^o^)／<!-- .element: class="fragment" data-fragment-index="4" -->
+Note: I answered "I learned Java in the class. and yeah, that's all so far." And of course I couldn't pass as a result...
+
+
+<!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
+Note: When I look around there are many students who might have a great experience, and looks smart. So I realized I'm not on the start line yet. So I decided to quit job hunting activity, and decided to find more practical internship.
+
+
+<!-- .slide: data-background-image="assets/images/givery_start.jpg" -->
+### Start internship in Givery
+- Around 5 employees
+- No job offer
+Note: But I felt it might be higher risk that I don't have any practical experience before guraduation.
+
+
+<!-- .slide: data-background-image="assets/images/givery_start.jpg" -->
+Start up a recruiting business "For Engineer"
+
+
+Matching event in University of Tsukuba.
+- Target was 100 students<!-- .element: class="fragment" data-fragment-index="2" -->
+- Result...<!-- .element: class="fragment" data-fragment-index="3" -->
+- 20...<!-- .element: class="fragment" data-fragment-index="4" -->
+- includes staff!<!-- .element: class="fragment" data-fragment-index="5" -->
+
+
+### But I was okay!!
+
+
+## What I wanna do is
+to get experience of making something from scruch by myself<!-- .element: class="fragment" data-fragment-index="2" -->
+
+
+That passion makes me motivative
+
+
+<!-- .slide: data-background-image="assets/images/g2g.jpg" -->
+
+
+<!-- .slide: data-background-image="assets/images/tw.jpg" -->
+
+
+<!-- .slide: data-background-image="assets/images/fb.jpg" -->
+
+
+<!-- .slide: data-background-image="assets/images/freepaper.jpg" -->
+
+
+<!-- .slide: data-background-image="assets/images/swa2.jpg" -->
+
+
+<!-- .slide: data-background-image="assets/images/swa.jpg" -->
+
 
 
 ## How to set a goal?
-- No "correct" answer<!-- .element: class="fragment" data-fragment-index="2" -->
-- For someone<!-- .element: class="fragment" data-fragment-index="3" -->
+- Set a simple goal<!-- .element: class="fragment" data-fragment-index="2" -->
+- Done is better than perfect<!-- .element: class="fragment" data-fragment-index="3" -->
+- Do whatever you want to do<!-- .element: class="fragment" data-fragment-index="3" -->
+Note: Through m
 
 
 
@@ -191,7 +260,8 @@ Note: Second story is how I achieve a goal.
 
 
 ## How to achieve a goal?
-- Make it quantitative<!-- .element: class="fragment" data-fragment-index="3" -->
+- Think what CORE VALUE is<!-- .element: class="fragment" data-fragment-index="2" -->
+- Think for someone<!-- .element: class="fragment" data-fragment-index="3" -->
 - Never give up<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
@@ -201,9 +271,8 @@ Note: The last story is how I go with a team.
 
 
 ## How to go with a team
-- Work with member greater then you<!-- .element: class="fragment" data-fragment-index="3" -->
-- They know answer, bit you don't.<!-- .element: class="fragment" data-fragment-index="4" -->
-- Trust member<!-- .element: class="fragment" data-fragment-index="5" -->
+- They know answer, but you don't.<!-- .element: class="fragment" data-fragment-index="2" -->
+- Trust member<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 

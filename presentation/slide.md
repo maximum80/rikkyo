@@ -321,18 +321,6 @@ Note: Do something fast if you come up with idea. Leave your desk, just go out f
 
 
 
-## Mini test
-
-
-### 冒頭に紹介した海外の経営者に含まれない人は次のうちどれ
-- マーク・ザッカーバーグ
-- ビル・ゲイツ
-- イーロン・マスク
-- ジェフ・ベゾス
-- ラリー・ペイジ
-
-
-
 ## 2. Achieve a goal
 Note: 40分程度
 Second story is how I achieve a goal.

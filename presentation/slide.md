@@ -398,9 +398,7 @@ I re-condidered
 
 
 "Empowering Engineers"
-Note: I decided to change my mind, set this concept.
-We believe that people who have "passion" and "technology" can change the world for the better.
-Note: We want to provide an opportunity for those people to learn technology, to find their career plan through those activity.And we believe that Empowering engineers would lead to develop Japanese economy.
+Note: I decided to change my mind, set this concept.We believe that people who have "passion" and "technology" can change the world for the better.We want to provide an opportunity for those people to learn technology, to find their career plan through those activity.And we believe that Empowering engineers would lead to develop Japanese economy.
 
 
 <!-- .slide: data-background-image="https://2015.jphacks.com/wp-content/uploads/sites/2/2015/10/tokyo.jpg" -->

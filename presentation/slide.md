@@ -7,6 +7,7 @@
 
 ## Self Introduction
 自己紹介
+Note: Please let me introduce myself first.
 
 
 ## About me
@@ -25,6 +26,8 @@
 
 
 ## Question
+Note: 3分~5以内
+Before we proceed to the main topic, I would like to ask few questions to you all.
 
 
 <!-- .slide: data-background-image="http://livedoor.blogimg.jp/yurukuyaru/imgs/e/e/eed380f8.jpg" -->
@@ -49,12 +52,15 @@
 
 
 ## One more question
+Note: 10分以内
 
 
 ### What are their common points?
-- CEO<!-- .element: class="fragment" data-fragment-index="2" -->
+- CEO(Founder)<!-- .element: class="fragment" data-fragment-index="2" -->
 - IT Engineer or Computuer Science background<!-- .element: class="fragment" data-fragment-index="3" -->
 - Worlds billionaires top 30<!-- .element: class="fragment" data-fragment-index="4" -->
+Note: Of course they are "human", and "Man". But Please think more specific points.
+They are CEO, They all have background of Engineering, And they are billionaires, ranked in top 30 of world wide ranking.
 
 
 - No.1 Gates
@@ -65,18 +71,25 @@
 
 7/30 billionaires have same common points.
 Note:
-There are 7 people who have same common points in the top 30 billionaires!
+And also there are 7 people who have same common points in the top 30 billionaires!
 
 
-But in Japan...
+In Japan...
+Note: Now, casting eyes on Japan...
 
 
 1/30
+Note: Only one guy in Japanese top 30 ranking.
+
+
+<!-- .slide: data-background-image="http://xn--qcka9i7azcwa9bz223dri0b.com/wp-content/uploads/2016/08/tanaka.jpg" -->
 Note:
 Only the person who is CEO of GREE,Inc. is same.
 
 
+
 ## What we do
+Note: 15分以内
 
 
 <!-- .slide: data-background-image="assets/images/codeprep_top.jpg" -->
@@ -89,34 +102,57 @@ Note: Codeprep is an online Programming Learning service that let user learn var
 ### 2. codecheck
 Online Programming Exam Tool
 Note:
-Codecheck is a online exam tool that let company have their technical screening test to candidates.
+Codecheck is an online exam tool that let company have their technical screening test to candidates.
 
 
-### 3. JPHACKS
+<!-- .slide: data-background-image="assets/images/codesprint.png" -->
+### 3. codesprint
+Job matching service
+Note: Codesprint is a job matching service based on programming skills regardless age, nationality, university, job history,etc.
+
+
+### 4. JPHACKS
 
 
 <!-- .slide: data-background-video="assets/videos/jphacks.mp4"-->
-Note:
+Note: JPHACKS is a Japanese biggest event for student who want to be a great engineer.
+We provide them an opportunity creating a product with team, and compete with others in all of Japaese students.
+We believe that It would be helpful for them to figure out what they want to do, what they want to be before graduation. Is it cool, Awesome isn't it? I want to make a culture make people feel "Engineer" is cool!
 
 
 ## Why we do
 
 
+<!-- .slide: data-background-image="http://static2.s-trojmiasto.pl/zdj/c/9/112/620x0/1128905-Utrate-dziecka-przezywaja-zarowno-matki-jak-i-ojcowie-Niestety-czesto-pomija__c_0_13_555_355.jpg" -->
+## 3K
+- きつい  
+- 帰れない
+- 給料が安い
+Note: Working style of engineer in here called "3K"s. It means
+
+
+<!-- .slide: data-background-image="https://tech-camp.in/note/wp-content/uploads/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2016-08-10-16.52.56.png" -->
+600,000 short in Japan by 2030.<!-- .element: class="fragment" data-fragment-index="2" -->
+Note: According to this research the number of engineers will be 600,000 short than company expect in Japan by 2030.
+
+
 <!-- .slide: data-background-image="assets/images/jphacks_1.jpg" -->
 ### Empowering Engineers
 We believe that people who have "passion" and "technology" can change the world for the better.
+Note: We want to provide an opportunity for those people to learn technology, to find their career plan through those activity.And we believe that Empowering engineers would lead to develop Japanese economy.
 
 
 
 ## Why I'm in here?
-Note:
-Anyway, Why I'm in here today?
-Acutally Ayano-san is my mother-in-law. She is my wife's father's wife.Actually we lived together before.
+Note: 15分程度
+By the way, Do you guys know Why I'm in here today?
+let me share the background a bit.
+Acutally Ayano-san is my mother-in-law. She is my wife's father's wife. So actually we lived together before.
 
 
-#### Ayano-san
+#### Aya-san
 "Hey, Could you have a speech in my class? And talking about 'Leader-ship'?"
-Note: Oneday She said "Hey, Could you have a speech in my class? And talking about 'Leader-ship'? "
+Note: I call her "aya-san". Oneday She said "Hey, Could you have a speech in my class? And talking about 'Leader-ship'? "
 
 
 #### Me
@@ -169,25 +205,16 @@ But I experienced a lot includes failue.
 - To set a goal<!-- .element: class="fragment" data-fragment-index="2" -->
 - To achieve a goal<!-- .element: class="fragment" data-fragment-index="3" -->
 - To go forward with a team<!-- .element: class="fragment" data-fragment-index="4" -->
-Note:
+Note:ここまで25分
 Through my experience, I'm understanding what leadership is to ...
 So this is just throwing my two cents,  
 Today, I'm gonna talk to you how I tried to lead our team with my 3 stories.
 
 
 
-## Mini test
-### 冒頭に紹介した海外の経営者に含まれない人は次のうちどれ
-- マーク・ザッカーバーグ
-- ビル・ゲイツ
-- イーロン・マスク
-- ジェフ・ベゾス
-- ラリー・ペイジ
-
-
-
 ## 1. Set a goal
-Note: First story is how I set a goal.
+Note: 20分程度
+First story is how I set a goal.
 
 
 <!-- .slide: data-background-image="http://kenjasyukatsu.com/blogs/wp-content/uploads/2015/05/imasia_15432350_S.jpg" -->
@@ -195,13 +222,13 @@ Note: First story is how I set a goal.
 - Became fun of IT industry<!-- .element: class="fragment" data-fragment-index="3" -->
 - Apply IT companies<!-- .element: class="fragment" data-fragment-index="4" -->
 
-Note: Let's go back to my history of job hunting season when I was an university student. I went to smoe 1day internships in Japanese traditiona company. And...
+Note: Let's go back to my history of job hunting season when I was an university student. I went to smoe 1day internships in Japanese traditional company. But it was too board for me, but on the other hand, internship of IT company was really fun because they all like new things, don't have to wear annoying suite lol. I became to like IT industry culutre, and decided to apply focus on IT company.
 
 
 <!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
 - Every interviewer asked me...<!-- .element: class="fragment" data-fragment-index="2" -->
 - "Could you tell me about your programming experience?"<!-- .element: class="fragment" data-fragment-index="3" -->
-Note: In the interview, Every interviewer asked me ""
+Note: But in the interview, Every interviewer asked me ""
 
 
 <!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
@@ -213,20 +240,20 @@ Note: I answered "I learned Java in the class. and yeah, that's all so far." And
 
 <!-- .slide: data-background-image="https://static1.squarespace.com/static/53527f27e4b07854cfc3c1bf/t/5898276429687ff9f4d2aa71/1486366577166/eikaiwanow" -->
 I need experience.
-Note: When I look around there are many students who might have a great experience, and looks smart. So I realized I'm not on the start line yet. So I decided to quit job hunting activity, and decided to find more practical internship.
+Note: When I look around, there are many students who might have a great experience, and looks smart. So I realized I'm not on the start line yet. So I decided to quit job hunting activity, and decided to find more practical internship.
 
 
 <!-- .slide: data-background-image="assets/images/givery_start.jpg" -->
 ### Start internship in Givery
 - 5 employees<!-- .element: class="fragment" data-fragment-index="2" -->
 - No job offer<!-- .element: class="fragment" data-fragment-index="3" -->
-Note: Only 5 employees, small office, but I was really excited because I can do everything. I felt it might be higher risk that I don't have any practical experience before guraduation.
+Note: I was lucky I found Givery that hire internship, and allow me to build new business. So I dived into there. It was only 5 employees, small office, but I was really excited for me because I can do everything what I wanna try. I felt it might be higher risk that I don't have any practical experience before guraduation.
 
 
 <!-- .slide: data-background-image="assets/images/givery_start.jpg" -->
-- I started up a recruiting business "For Engineer"<!-- .element: class="fragment" data-fragment-index="2" -->
+- I started up a recruiting business "For engineer students"<!-- .element: class="fragment" data-fragment-index="2" -->
 - for people like me<!-- .element: class="fragment" data-fragment-index="3" -->
-Note: I believe that there are some people who have a same issues as me.
+Note: I regretted that I should have understand the value of programming, and learned programming more. So I believe that there are some people who have a same issues as me.
 
 
 ### First
@@ -235,6 +262,7 @@ I held matching event in University of Tsukuba.
 - Result...<!-- .element: class="fragment" data-fragment-index="3" -->
 - 20...<!-- .element: class="fragment" data-fragment-index="4" -->
 - includes staff!<!-- .element: class="fragment" data-fragment-index="5" -->
+Note: to let them know how exisitng IT industry is, and help them to find IT startups earlier. But I failed.
 
 
 ### But I was okay!!
@@ -242,6 +270,7 @@ I held matching event in University of Tsukuba.
 
 ## What I want to do is
 to get experience of making something from scruch by myself<!-- .element: class="fragment" data-fragment-index="2" -->
+Note: Because What I wannna do is,
 
 
 That passion makes me motivative
@@ -264,6 +293,7 @@ To publish freepaper
 
 
 ### 1 year later from the first event
+Note: Just keep doing such a thing, as a result
 
 
 <!-- .slide: data-background-image="assets/images/swa2.jpg" -->
@@ -279,7 +309,7 @@ And it was introduced by TV news.
 We don't need a clear goal from first.
 
 
-Don't think deeply, do something.
+Don't think deeply, but just do it.
 
 
 <!-- .slide: data-background-image="http://lifecareerup.com/wp-content/uploads/2016/01/CBEVrnZUkAAzZjB.jpg" -->
@@ -287,12 +317,25 @@ Don't think deeply, do something.
 - Set a "simple" goal whatever you want<!-- .element: class="fragment" data-fragment-index="2" -->
 - There is no "correct" answer<!-- .element: class="fragment" data-fragment-index="3" -->
 - Done is better than perfect<!-- .element: class="fragment" data-fragment-index="4" -->
-Note: do something fast.
+Note: Do something fast if you come up with idea. Leave your desk, just go out for the real world.
+
+
+
+## Mini test
+
+
+### 冒頭に紹介した海外の経営者に含まれない人は次のうちどれ
+- マーク・ザッカーバーグ
+- ビル・ゲイツ
+- イーロン・マスク
+- ジェフ・ベゾス
+- ラリー・ペイジ
 
 
 
 ## 2. Achieve a goal
-Note: Second story is how I achieve a goal.
+Note: 40分程度
+Second story is how I achieve a goal.
 
 
 <!-- .slide: data-background-image="https://tech-camp.in/note/wp-content/uploads/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88-2016-08-10-16.52.56.png" -->
@@ -319,18 +362,21 @@ I felt we will be able to succeed
 But...
 
 
-<!-- .slide: data-background-image="assets/images/fb.jpg" -->
-Quit CTO...
-
-
 <!-- .slide: data-background-image="assets/images/flaming.png" -->
 - Event was Flamed...<!-- .element: class="fragment" data-fragment-index="2" -->
 - Lost sponsor <!-- .element: class="fragment" data-fragment-index="3" -->
 - Close event<!-- .element: class="fragment" data-fragment-index="4" -->
-Note: And we lost sponsor, need to quit the event at the end...
+Note: the negative article written by one attendance buzzed around developers communitiy, And we lost sponsor avoid dis-branding, So we need to quit the event at the end...
 
 
-### I realized
+<!-- .slide: data-background-image="assets/images/fb.jpg" -->
+Left CTO...
+Note: He started to work in competitor...
+
+
+### I considered why...
+
+
 "I" always thought something for "me"<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
@@ -339,20 +385,26 @@ Note: And we lost sponsor, need to quit the event at the end...
 - clients
 
 
+### I realized
 - No one exists for me.
 - No one want a service for me.<!-- .element: class="fragment" data-fragment-index="3" -->
 - No one want to work for me.<!-- .element: class="fragment" data-fragment-index="4" -->
 
 
-I reconsidered **why we do?**
+I re-condidered
+
+
+**why we do?**
 
 
 "Empowering Engineers"
-Note: I decided to change my mind,
+Note: I decided to change my mind, set this concept.
+We believe that people who have "passion" and "technology" can change the world for the better.
+Note: We want to provide an opportunity for those people to learn technology, to find their career plan through those activity.And we believe that Empowering engineers would lead to develop Japanese economy.
 
 
 <!-- .slide: data-background-image="https://2015.jphacks.com/wp-content/uploads/sites/2/2015/10/tokyo.jpg" -->
-Note: Fortunatelly, one attendance of our event introduced a professor who want to hold a hackathon event in University of Tokyo.
+Note: Fortunatelly, one attendance of our event introduced a professor univ of tokyo who want to hold a hackathon event in University of Tokyo.
 
 
 <!-- .slide: data-background-image="https://2015.jphacks.com/wp-content/themes/jphacks_2015/images/gallery/gallery-1.png" -->
@@ -361,6 +413,7 @@ Note: Fortunatelly, one attendance of our event introduced a professor who want 
 - Co-hold with National Universities
 - 300 students
 - 6 venues
+Note: We could make a brand new with University of Tokyo.
 
 
 <!-- .slide: data-background-image="assets/images/techcrunch.png" -->
@@ -371,7 +424,8 @@ Note: Fortunatelly, one attendance of our event introduced a professor who want 
 
 <!-- .slide: data-background-image="https://images.fastcompany.com/upload/paul-graham-process-375.jpg" data-background-size="contain" -->
 - Most successful startups are overnight success. <!-- .element: class="fragment" data-fragment-index="2" -->
-- That night is usually somewhere between<!-- .element: class="fragment" data-fragment-index="3" --> **day 1000 and day 3500**.<!-- .element: class="fragment" data-fragment-index="4" -->
+- That night is usually somewhere between<!-- .element: class="fragment" data-fragment-index="3" --> **day 1,000 and day 3,500**.<!-- .element: class="fragment" data-fragment-index="4" -->
+Note: Just for tips, this is a famous word explaning starups. サーティーファイブハンドレッド
 
 
 <!-- .slide: data-background-image="https://images.fastcompany.com/upload/paul-graham-process-375.jpg" data-background-size="contain" -->
@@ -382,6 +436,7 @@ So we are in still a long way to go...
 
 
 In Apple,Inc case
+Note: Let me introduce my favorite video that Steave jobs propose their new brand concept when he came back to Apple.
 
 
 <!-- .slide: data-background-video="assets/videos/steave.mp4" data-background-size="contain" -->
@@ -390,9 +445,11 @@ In Apple,Inc case
 **"Think different"**
 - Apple is not just a hardware maker
 - They believe that people who have a passion can change the world for the better.
+Note: Apple was bad situation before he came back, but he changed Apple with this new concept.
 
 
 You will surely face a limit and big wall if you want to do something only for "yourself".
+Note: I think
 
 
 ## If you want to achieve a big goal
@@ -404,7 +461,8 @@ Note: So if you want to achieve a big goal, keep thinking and thinking
 
 
 ## 3. Go forward with a team
-Note: The last story is how I go with a team.
+Note: 60分程度
+The last story is how I go with a team.
 
 
 I was in trouble with team.<br>
@@ -416,26 +474,27 @@ Note: I really
 - A UI/UX designer applied to our job posting.
 - But He is Canadian.<!-- .element: class="fragment" data-fragment-index="2" -->
 - I had no choice but to have an interview with him.<!-- .element: class="fragment" data-fragment-index="3" -->
-Note: Of course I can't speak in Enligh, he knew our company from his room mate of share house who joined our hackathon event before.
+Note: Oneday, A UI/UX designer applied. Of course I couldn't speak Enligh well, he told that knew our company from his room mate of share house who joined our hackathon event before.
 
 
 ## First question
 - He asked
-- "I can't speak Japanese.Is it okay"<!-- .element: class="fragment" data-fragment-index="2" -->
+- "I can't speak Japanese. Is it okay"<!-- .element: class="fragment" data-fragment-index="2" -->
 
 - I answered...<!-- .element: class="fragment" data-fragment-index="3" -->
 - "Ah, Yes!!"<!-- .element: class="fragment" data-fragment-index="4" -->
 - (I can't speak English though...)<!-- .element: class="fragment" data-fragment-index="4" -->
-Note: We can't
+Note: When interview, he asked me...
+Finally we decided to hire him.
 
 
 ## Second question
 - The designer asked me
-- "Hey, can we hire developer internship with paying for general salary? They are smart!"<!-- .element: class="fragment" data-fragment-index="2" -->
+- "Hey, can we hire student developer internship with paying for general salary? They are smart!"<!-- .element: class="fragment" data-fragment-index="2" -->
 
 - I answered...<!-- .element: class="fragment" data-fragment-index="3" -->
 - "Ah, Yes!!"<!-- .element: class="fragment" data-fragment-index="4" -->
-- (Why do we have to pay for internship as much as general employee...)<!-- .element: class="fragment" data-fragment-index="4" -->
+- (Why do we have to pay for student internship as much as general employee...)<!-- .element: class="fragment" data-fragment-index="4" -->
 Note: The designer introduced me that
 
 
@@ -476,7 +535,7 @@ Just saying "yes" makes our team<!-- .element: class="fragment" data-fragment-in
 <!-- .slide: data-background-image="http://az616578.vo.msecnd.net/files/2016/04/09/6359581182881760131419052954_Yes-Man.jpg" -->
 
 
-## I said otherwise
+## I said "Yes" and otherwise
 - Our passion, vision
 - Objects, why we do
 - Issues that we should solve
@@ -486,10 +545,11 @@ Just saying "yes" makes our team<!-- .element: class="fragment" data-fragment-in
 - It is impossible for me to come up with those idea.
 
 
-## Finally it leads to
-- our creativity  
-- various of ability
+## Finally it leads to build
+- creativity  
+- variety
 - make a good decision
+Note: which I couldn't come up with
 
 
 <!-- .slide: data-background="assets/images/team1.jpg" -->
@@ -497,10 +557,12 @@ Just saying "yes" makes our team<!-- .element: class="fragment" data-fragment-in
 - Say "YES!!!"<!-- .element: class="fragment" data-fragment-index="2" -->
 - Trust your team<!-- .element: class="fragment" data-fragment-index="3" -->
 - Don't say "how", but "why" we do!<!-- .element: class="fragment" data-fragment-index="4" -->
+Note: So, if you want to go forward with team,
 
 
 
 ## conclusion
+Note: 75分程度
 
 
 ## How to set a goal
@@ -526,6 +588,7 @@ Just saying "yes" makes our team<!-- .element: class="fragment" data-fragment-in
 # CODEPREP
 Let's learn something new with CODEPREP!<br>
 [https://codeprep.jp](https://codeprep.jp)
+Note: 80分程度
 
 
 <!-- .slide: data-background-image="https://d2v9k5u4v94ulw.cloudfront.net/assets/images/1697987/original/3e84c9e6-a87e-470c-a720-a1d11b1736d0.png" -->
@@ -536,14 +599,19 @@ Join us!!<br>
 
 
 ## Ending
-Note:
-My grand father has gone when I
+Note: 80分程度<br>
+(Let me talk about my grandfather.) My grandfather has gone when I just started to work.
+So I tried to find something for keepsake in my granpa house.
+and I found this
 
 
 <!-- .slide: data-background="assets/images/granpa.jpg" data-background-size="auto 100%"-->
 # A strong will <!-- .element: class="fragment" data-fragment-index="1" -->
 # brings advance<!-- .element: class="fragment" data-fragment-index="2" -->
 Note:
+I found this calligraphy sheet over 10 or more written by him.
+He seemed write this phrase again and again.
+I felt that perhaps it might be his most valuable phrase.
 If it says in English
 
 
@@ -564,3 +632,4 @@ By doing that, someone will surely help you when you face any troubles and crisi
 
 ## Thank you for listening!!
 ### And any questions?
+Note: 85分程度

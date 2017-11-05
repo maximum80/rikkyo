@@ -90,9 +90,6 @@ What do you think there should be as a team in order to achieve such a vision th
 - Good point of current team, person?
 - What we need to grow more?
 
-- What is "Empowering Engineer" to society?
-- What is the core value of our service?
-
 
 ### 2-2. share it each other
 

@@ -186,7 +186,7 @@ Note: We want to provide an opportunity for those people to learn technology, to
 
 
 ### 自立自立エンジニアの輩出
-エンジニアがスキルを最大限発揮できる環境を作ること
+エンジニアが<br>スキルを最大限発揮できる環境を作ること
 
 
 

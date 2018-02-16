@@ -208,7 +208,7 @@ Note: We want to provide an opportunity for those people to learn technology, to
 
 
 <!-- .slide: data-background-image="https://d2jpzphjpce52c.cloudfront.net/system/production/image/image/000/122/165/122165/wysiwyg_c1b0b175a9605b1aefd1.jpg" -->
-### お互いいなってなった人と<br>”今夜”飲み明かしたい！！
+### お互い、いいなってなった人と<br>”今夜”飲み明かしたい！！
 
 
 <!-- .slide: data-background-image="https://d2jpzphjpce52c.cloudfront.net/system/production/image/image/000/122/165/122165/wysiwyg_c1b0b175a9605b1aefd1.jpg" -->

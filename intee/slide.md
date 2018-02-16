@@ -146,7 +146,10 @@ ITは業界からインフラへ
 
 
 
-## そんな中
+## 誰が次の時代を築くか?
+
+
+## そんな中…
 
 
 <!-- .slide: data-background-image="http://static2.s-trojmiasto.pl/zdj/c/9/112/620x0/1128905-Utrate-dziecka-przezywaja-zarowno-matki-jak-i-ojcowie-Niestety-czesto-pomija__c_0_13_555_355.jpg" -->
@@ -205,7 +208,7 @@ Note: We want to provide an opportunity for those people to learn technology, to
 
 
 <!-- .slide: data-background-image="https://d2jpzphjpce52c.cloudfront.net/system/production/image/image/000/122/165/122165/wysiwyg_c1b0b175a9605b1aefd1.jpg" -->
-### お互いいなってなった人と<br>”今夜”飲み明かしたい！！
+### お互い、いいなってなった人と<br>”今夜”飲み明かしたい！！
 
 
 <!-- .slide: data-background-image="https://d2jpzphjpce52c.cloudfront.net/system/production/image/image/000/122/165/122165/wysiwyg_c1b0b175a9605b1aefd1.jpg" -->

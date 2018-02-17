@@ -201,7 +201,7 @@ Note: We want to provide an opportunity for those people to learn technology, to
 ### 私たちのMission
 
 
-### 自立自立エンジニアの輩出
+### 自立自走エンジニアの輩出
 エンジニアが<br>スキルを最大限発揮できる環境を作ること
 
 

@@ -4,7 +4,7 @@
 
 
 # Intee 逆求人
-### 2018.2.17
+### 2018.3.4
 株式会社ギブリー
 
 <img src="https://givery.co.jp/wp-content/themes/GiveryCorporate/images/shared/logo_givery_symbol.svg" style="width:200px;background: none; border: none;;box-shadow:none;">

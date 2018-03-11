@@ -51,6 +51,10 @@
 
 
 
+<!-- .slide: data-background-video="assets/videos/JPHACKS2017.mov" -->
+
+
+
 ## 今から28年前
 (僕が生まれた年)
 

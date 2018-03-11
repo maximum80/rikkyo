@@ -22,6 +22,14 @@
 - 筑波大学 理工学群 社会工学類 卒業
 
 
+## 吉田将暉 Masaki Yoshida
+<img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p320x320/14222224_1116103598464974_5419986790329495615_n.jpg?oh=3ed6eb542bfc5c71a44b1dc7e34a498e&oe=5B04882E" style="width:180px;">
+- 株式会社ギブリー 執行役員
+- 経営企画部長 兼 マーケティング部長
+- 2社目：独立起業　初年度から売上1億超え
+- 新卒：市場調査会社にてブランド戦略立案担当
+
+
 ## 山根淳平 Jumpei Yamane
 <img src="https://scontent-nrt1-1.xx.fbcdn.net/v/t1.0-1/p320x320/19060057_10155527077114662_2294694116062120266_n.jpg?oh=5ad896afc6eb6f199543024f7cb3ee39&oe=5B025E89" style="width:180px;">
 - 株式会社ギブリー 執行役員
@@ -157,7 +165,7 @@ AI , Robotics
 
 
 <!-- .slide: data-background-image="https://businessecosystem.unisys.co.jp/wp-content/uploads/2017/06/s-1-1.jpg" -->
-## X Tech 
+## X Tech
 ITは業界からインフラへ
 
 

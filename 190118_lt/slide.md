@@ -1,4 +1,22 @@
-### Customer Reliability Engineering実践 
+## カスタマーサクセスLT会
+
+
+## 目的
+
+
+## LT会で重要なこと
+
+
+## ライトに！！
+
+
+## 楽しく！！
+
+
+## アルコールドリブン！！
+
+
+### Customer Reliability Engineering実践
 ~顧客を成功に導くカスタマーサクセスオートメーションの構築~
 
 
@@ -13,7 +31,7 @@
 
 - 株式会社ギブリー 取締役
 - HR Tech部門 管掌
-- track カスタマーサクセス統括
+- trackプロダクトオーナー（元CS統括）
 - Twitter: maximum_80
 
 

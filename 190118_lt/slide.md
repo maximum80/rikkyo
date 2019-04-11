@@ -120,6 +120,7 @@
 Jira バックログと顧客の会話を連携
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/maximum80/20190117/20190117185035.png">
 
+
 #### 問い合わせをJiraバックログに連携
 <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/m/maximum80/20190117/20190117185007.png">
 
